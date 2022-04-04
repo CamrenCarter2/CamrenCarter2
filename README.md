@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CamrenCarter2
-- 👀 I’m interested in computer software, and I wish to make a carreer out of this feild
-- 🌱 I’m currently at learning at Judson Univerity. I am in the computer science program and wish to get my bachelors degree and then continue learning about computer software
-- 💞️ I’m looking for opportunities
+- 👀 I am interested in computer science as a whole, and I wish to make a career out of this field.
+- 🌱 I am currently learning at Judson Univerity. I am in the computer science program and wish to get my bachelors degree and then continue learning more about computer software.
+- 💞️ I am currently looking for opportunities to intern and learn about the industry.
 - 📫 How to reach me. Email: ccamren02@gmail.com 
 
 <!---
