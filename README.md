@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CamrenCarter2
 - 👀 I am interested in computer science as a whole, and I wish to make a career out of this field.
-- 🌱 I am currently learning at Judson Univerity. I am in the computer science program and wish to get my bachelors degree and then continue learning more about computer software.
+- 🌱 Completed a Bachelors of Computer Science with a minor in Mathematics.
 - 💞️ I am currently looking for job opportunities and continue learn about the industry.
 - 📫 How to reach me. Email: retracc02@gmail.com 
 
